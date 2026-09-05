@@ -1,4 +1,4 @@
-# 🌌 Orion Music
+#  Orion Music
 
 <div align="center">
 
