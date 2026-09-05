@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Orion Music Icon](icons/orion128.png)
+![Orion Music Icon](icon.ico)
 
 **A modern, minimalist, always-on-top floating YouTube Music desktop controller for Windows with Apple Dynamic Island notifications, Desktop Dynamic Notch, Smart DJ Crossfade, and Real-Time Audio Stream Optimization.**
 
