@@ -1,4 +1,4 @@
-# ![Orion Music Icon](icon.ico) Orion Music
+# Orion Music
 
 <div align="center">
 
